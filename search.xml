@@ -4,11 +4,49 @@
   
     
     <entry>
+      <title>我的第三篇文章</title>
+      <link href="2021/07/17/wo-de-di-san-pian-wen-zhang/"/>
+      <url>2021/07/17/wo-de-di-san-pian-wen-zhang/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>写博客文章</title>
+      <link href="2021/07/17/wo-de-di-er-pian-wen-zhang/"/>
+      <url>2021/07/17/wo-de-di-er-pian-wen-zhang/</url>
+      
+        <content type="html"><![CDATA[<h2 id="参考教程"><a href="#参考教程" class="headerlink" title="参考教程"></a>参考教程</h2><p><a href="https://blog.csdn.net/u014061630/article/details/81359144" title="点击跳转">参考教程：1.Markdown语法图文全面详解(10分钟学会)</a><br><a href="https://blog.csdn.net/weixin_38821611/article/details/107146045" title="点击跳转">参考教程：2.Hexo博客写文章及基本操作</a> </p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习笔记（防忘） </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 学习 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>我的第一篇博客</title>
       <link href="2021/02/25/wo-de-di-yi-pian-bo-ke/"/>
       <url>2021/02/25/wo-de-di-yi-pian-bo-ke/</url>
       
-        <content type="html"><![CDATA[<h2 id="关于本博客的搭建"><a href="#关于本博客的搭建" class="headerlink" title="关于本博客的搭建"></a>关于本博客的搭建</h2><p><a href="https://www.bilibili.com/video/BV1cW411A7Jx?t=2" title="点击跳转">参考视频教程：bilibili @hojun_cn</a> </p><h2 id="smile"><a href="#smile" class="headerlink" title=":smile:"></a><span class="github-emoji"><span>😄</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span></h2><hr><p>bash<br><code>print('Hello World')</code></p><p>图片测试:</p><h2 id="代码学习"><a href="#代码学习" class="headerlink" title="代码学习"></a>代码学习</h2><p><img src="/images/cut.jpg"></p><h2 id="新建博客"><a href="#新建博客" class="headerlink" title="新建博客"></a>新建博客</h2><p>  1.Front-matter设置<br>❤<strong>示例</strong></p><figure class="highlight py"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line">--- </span><br><span class="line">title: 文章标题 </span><br><span class="line">date: 时间 </span><br><span class="line">author: 作者名 </span><br><span class="line">img: /images/xxx.jpg </span><br><span class="line">top: true </span><br><span class="line">cover: true </span><br><span class="line">coverImg: /images/<span class="number">1.j</span>pg </span><br><span class="line">toc: false </span><br><span class="line">mathjax: false </span><br><span class="line">summary: 自定义文章摘要内容，文章卡片摘要显示这段文字。 </span><br><span class="line">categories: 学习笔记 </span><br><span class="line">tags: </span><br><span class="line">  - 博客文章 </span><br><span class="line">  - 基础设置 </span><br><span class="line">---</span><br></pre></td></tr></tbody></table></figure><table><thead><tr><th align="left">学号</th><th>姓名</th><th align="right">分数</th></tr></thead><tbody><tr><td align="left">小明</td><td>男</td><td align="right">75</td></tr><tr><td align="left">小红</td><td>女</td><td align="right">95</td></tr></tbody></table><p>skjd<br>❤</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="关于本博客的搭建"><a href="#关于本博客的搭建" class="headerlink" title="关于本博客的搭建"></a>关于本博客的搭建</h2><p><a href="https://www.bilibili.com/video/BV1cW411A7Jx?t=2" title="点击跳转">参考视频教程：bilibili @hojun_cn</a> </p><p><span class="github-emoji"><span>😄</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span></p><hr><h2 id="新建博客"><a href="#新建博客" class="headerlink" title="新建博客"></a>新建博客</h2><p>  1.Front-matter设置</p><p>❤<strong>示例</strong></p><figure class="highlight py"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">title: 文章标题 </span><br><span class="line">date: 时间 </span><br><span class="line">author: 作者名 </span><br><span class="line">img: /images/xxx.jpg </span><br><span class="line">top: true </span><br><span class="line">cover: true </span><br><span class="line">coverImg: /images/<span class="number">1.j</span>pg </span><br><span class="line">toc: false </span><br><span class="line">mathjax: false </span><br><span class="line">summary: 自定义文章摘要内容，文章卡片摘要显示这段文字。 </span><br><span class="line">categories: 学习笔记 </span><br><span class="line">tags: </span><br><span class="line">  - 博客文章 </span><br><span class="line">  - 基础设置 </span><br><span class="line">---</span><br></pre></td></tr></tbody></table></figure><h2 id="文章的上传"><a href="#文章的上传" class="headerlink" title="文章的上传"></a>文章的上传</h2><p>主要使用以下三个：</p><p><code>hexo clean</code></p><p><code>hexo g</code></p><p><code>hexo d</code></p><h2 id="图片上传"><a href="#图片上传" class="headerlink" title="图片上传"></a>图片上传</h2><p><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2Fe2cfdd1891180770816fe6431c7761ba3734323c7a3a8-0ogpt8_fw658&amp;refer=http%3A%2F%2Fhbimg.b0.upaiyun.com&amp;app=2002&amp;size=f9999,10000&amp;q=a80&amp;n=0&amp;g=0n&amp;fmt=jpeg?sec=1636036271&amp;t=a2c2efca8bd0df6c3af0451639f7a384" alt="表情包"></p><p>图片地址直接在网页上右键即可获得。</p>]]></content>
       
       
       <categories>
